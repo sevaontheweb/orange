@@ -1,6 +1,8 @@
 # Orange
 Simple template for static html single-page personal website.
 
+Live demo: https://sevaontheweb.github.io/orange/
+
 ## Licence
 "People" section is a mockup for Clients / Our Team / Testimonials block, just for instance. Please substitute your own letterings and images.
 
@@ -18,6 +20,7 @@ etc..
 You will need to edit `action="#"` attribute of the `<form ..... >` tag as the service requires:
 
 `<form method="post" action="_this_value_you_edit_" id="contact-me">`
+
 
 
 ## Credits
